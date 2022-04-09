@@ -12,7 +12,7 @@
     "vuepress": "^1.4.0"
   },
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vuepress-plugin-blog-multidir": "^1.0.5",
     "vuepress-plugin-sitemap": "^2.3.1"
   }
